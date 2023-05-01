@@ -1,5 +1,3 @@
-from collections import deque
-
 class Solution:
     def findCircleNum(self, isConnected: List[List[int]]) -> int:
         # Será implementado uma BFS e a cada vez que a fila estiver vazia, sair do while e não ainda não tiver visitado todos os nós. Significa que a componente foi explorada por completo, portanto será incrementado 1 na quantidade de componentes
