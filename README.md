@@ -17,6 +17,10 @@ Esse projeto tem por objetivo a resolução de questões encontradas no leet cod
 [**Código:**](https://github.com/projeto-de-algoritmos/Grafos1_Exercicios_LeetCode/blob/master/Clone%20Graph/cloneGraph.py)<br>
 ![Clone Graph](/assets/CloneGraph_Resultado.png)
 
+### Exercício 2 (Médio) - [Number of Provinces](https://leetcode.com/problems/number-of-provinces/description/)
+[**Código:**](https://github.com/projeto-de-algoritmos/Grafos1_Exercicios_LeetCode/blob/master/Number%20Of%20Provinces/numberOfProvinces.py)<br>
+![Number of Provinces](/assets/NumberOfProvinces_Resultado.png)
+
 ## Instalação 
 **Linguagem**: Python<br>
 **Pré-Requisitos**: Os códigos devem ser rodados na própria plataforma do leetcode, tendo em vista o uso de uma classe Solution, bem como o uso correto dos inputs por parte da plataforma.
