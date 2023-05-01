@@ -46,7 +46,7 @@ Esse projeto tem por objetivo a resolução de questões encontradas no leet cod
 Entre na pasta do exercício específico, clique no arquivo `.py` e copie-o.
 
 ### Passo 2: Entrar na página do exercício
-No README de cada exercício há um hiperlink com o direcionamento para a página dele no leetcode.
+Ao clicar no título de cada questão presente neste README, você será redirecionado para a página da questão na plataforma LeetCode
 
 ### Passo 3: Alterar linguagem 
 Selecione a linguagem `Python3`.
