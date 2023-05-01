@@ -21,17 +21,17 @@ Esse projeto tem por objetivo a resolução de questões encontradas no leet cod
 [**Código:**](https://github.com/projeto-de-algoritmos/Grafos1_Exercicios_LeetCode/blob/master/All%20Ancestors%20of%20a%20Node%20in%20a%20Directed%20Acyclic%20Graph/allAncestors.py)<br>
 ![All Ancestors](/assets/11111.PNG)
 
-### Exercicio 3 (Médio) - [Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite/description/)
-[**Código:**](https://github.com/projeto-de-algoritmos/Grafos1_Exercicios_LeetCode/blob/master/Is%20Graph%20Bipartite/isBipartite.py)<br>
-![Is Bipartite](/assets/media1.PNG)
+### Exercício 3 (Difícil) - [Frog Position After T Seconds](https://leetcode.com/problems/frog-position-after-t-seconds/description/)
+[**Código:**](https://github.com/projeto-de-algoritmos/Grafos1_Exercicios_LeetCode/blob/master/Frog%20Position%20After%20T%20Seconds/frogPositionAfterTSeconds.py)
+![Frog Position After T Seconds](/assets/FrogPositionAfterTSeconds_Resultado.png)
 
 ### Exercício 4 (Médio) - [Number of Provinces](https://leetcode.com/problems/number-of-provinces/description/)
 [**Código:**](https://github.com/projeto-de-algoritmos/Grafos1_Exercicios_LeetCode/blob/master/Number%20Of%20Provinces/numberOfProvinces.py)<br>
 ![Number of Provinces](/assets/NumberOfProvinces_Resultado.png)
 
-### Exercício 5 (Difícil) - [Frog Position After T Seconds](https://leetcode.com/problems/frog-position-after-t-seconds/description/)
-[**Código:**](https://github.com/projeto-de-algoritmos/Grafos1_Exercicios_LeetCode/blob/master/Frog%20Position%20After%20T%20Seconds/frogPositionAfterTSeconds.py)
-![Frog Position After T Seconds](/assets/FrogPositionAfterTSeconds_Resultado.png)
+### Exercicio 5 (Médio) - [Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite/description/)
+[**Código:**](https://github.com/projeto-de-algoritmos/Grafos1_Exercicios_LeetCode/blob/master/Is%20Graph%20Bipartite/isBipartite.py)<br>
+![Is Bipartite](/assets/media1.PNG)
 
 ### Exercício 6 (Difícil) - [Longest Cycle in a Graph](https://leetcode.com/problems/longest-cycle-in-a-graph/description/)
 [**Código:**](https://github.com/projeto-de-algoritmos/Grafos1_Exercicios_LeetCode/blob/master/Longest%20Cycle%20in%20a%20Graph/BiggestClicle.py)<br>
