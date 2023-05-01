@@ -3,7 +3,6 @@
 Temas:
  - Grafos1
  - Grafos2
- - PD
  - D&C
  - Greed
  - Final 
