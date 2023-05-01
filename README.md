@@ -1,44 +1,57 @@
-**!! Atenção: Renomeie o seu repositório para (Tema)_(NomeDoProjeto). !!** 
+# Exercícios Leet Code
 
-Temas:
- - Grafos1
- - Grafos2
- - D&C
- - Greed
- - Final 
- 
- **!! *Não coloque os nomes dos alunos no título do repositório*. Exemplo de título correto: Grafos2_Labirinto-do-Minotauro !!**
- 
- (Apague essa seção)
-
-# NomedoProjeto
-
-**Número da Lista**: X<br>
-**Conteúdo da Disciplina**: XXXXXXXXXX<br>
+**Número da Lista**: 1<br>
+**Conteúdo da Disciplina**: Grafos 1<br>
 
 ## Alunos
 |Matrícula | Aluno |
 | -- | -- |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
+| 20/0018248  |  [Gabriel Roger Amorim da Cruz](https://github.com/GabrielRoger07) |
+| 20/0020650  |  [João Pedro de Camargo Vaz](https://github.com/JoaoPedro0803) |
 
 ## Sobre 
-Descreva os objetivos do seu projeto e como ele funciona. 
+Esse projeto tem por objetivo a resolução de questões encontradas no leet code, com o intuito de mostrar o nosso aprendizado no primeiro módulo de Grafos 1, da disciplina Projetos de Algoritmos, do professor Maurício Serrano.
 
 ## Screenshots
 Adicione 3 ou mais screenshots do projeto em funcionamento.
 
 ## Instalação 
-**Linguagem**: xxxxxx<br>
-**Framework**: (caso exista)<br>
-Descreva os pré-requisitos para rodar o seu projeto e os comandos necessários.
+**Linguagem**: Python<br>
+**Pré-Requisitos**: Os códigos devem ser rodados na própria plataforma do leetcode, tendo em vista o uso de uma classe Solution, bem como o uso correto dos inputs por parte da plataforma.
 
 ## Uso 
-Explique como usar seu projeto caso haja algum passo a passo após o comando de execução.
+### Passo 1: Copiar o código
+Entre na pasta do exercício específico, clique no arquivo `.py` e copie-o.
 
-## Outros 
-Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
+### Passo 2: Entrar na página do exercício
+No README de cada exercício há um hiperlink com o direcionamento para a página dele no leetcode.
+
+### Passo 3: Alterar linguagem 
+Selecione a linguagem `Python3`.
+
+### Passo 4: Colar o código
+Cole o código copiado no editor.
+
+### Passo 5: Rodar o código
+Abaixo do editor de código, clique em `Run` para executar o código.
 
 
 
 
+
+
+## Uso 
+### Passo 1: Copiar o código
+Entre na pasta do exercício específico, clique no arquivo `.py` e copie-o.
+
+### Passo 2: Entrar na página do exercício
+No README de cada exercício há um hiperlink com o direcionamento para a página dele no leetcode.
+
+### Passo 3: Alterar linguagem 
+Selecione a linguagem `Python3`.
+
+### Passo 4: Colar o código
+Cole o código copiado no editor.
+
+### Passo 5: Rodar o código
+Abaixo do editor de código, clique em `Run` para executar o código.
