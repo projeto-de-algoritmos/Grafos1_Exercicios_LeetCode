@@ -21,6 +21,10 @@ Esse projeto tem por objetivo a resolução de questões encontradas no leet cod
 [**Código:**](https://github.com/projeto-de-algoritmos/Grafos1_Exercicios_LeetCode/blob/master/Number%20Of%20Provinces/numberOfProvinces.py)<br>
 ![Number of Provinces](/assets/NumberOfProvinces_Resultado.png)
 
+### Exercício 5 (Difícil) - [Frog Position After T Seconds](https://leetcode.com/problems/frog-position-after-t-seconds/description/)
+[**Código:**](https://github.com/projeto-de-algoritmos/Grafos1_Exercicios_LeetCode/blob/master/Frog%20Position%20After%20T%20Seconds/frogPositionAfterTSeconds.py)
+![Frog Position After T Seconds](/assets/FrogPositionAfterTSeconds_Resultado.png)
+
 ## Instalação 
 **Linguagem**: Python<br>
 **Pré-Requisitos**: Os códigos devem ser rodados na própria plataforma do leetcode, tendo em vista o uso de uma classe Solution, bem como o uso correto dos inputs por parte da plataforma.
