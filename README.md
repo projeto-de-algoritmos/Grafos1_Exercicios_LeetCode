@@ -13,32 +13,13 @@
 Esse projeto tem por objetivo a resolução de questões encontradas no leet code, com o intuito de mostrar o nosso aprendizado no primeiro módulo de Grafos 1, da disciplina Projetos de Algoritmos, do professor Maurício Serrano.
 
 ## Screenshots
-Adicione 3 ou mais screenshots do projeto em funcionamento.
+### Exercício 1 (Médio) - [Clone Graph](https://leetcode.com/problems/clone-graph/description/)
+[**Código:**](https://github.com/projeto-de-algoritmos/Grafos1_Exercicios_LeetCode/blob/master/Clone%20Graph/cloneGraph.py)
+![Clone Graph](assets/CloneGraph_Resultado.png)
 
 ## Instalação 
 **Linguagem**: Python<br>
 **Pré-Requisitos**: Os códigos devem ser rodados na própria plataforma do leetcode, tendo em vista o uso de uma classe Solution, bem como o uso correto dos inputs por parte da plataforma.
-
-## Uso 
-### Passo 1: Copiar o código
-Entre na pasta do exercício específico, clique no arquivo `.py` e copie-o.
-
-### Passo 2: Entrar na página do exercício
-No README de cada exercício há um hiperlink com o direcionamento para a página dele no leetcode.
-
-### Passo 3: Alterar linguagem 
-Selecione a linguagem `Python3`.
-
-### Passo 4: Colar o código
-Cole o código copiado no editor.
-
-### Passo 5: Rodar o código
-Abaixo do editor de código, clique em `Run` para executar o código.
-
-
-
-
-
 
 ## Uso 
 ### Passo 1: Copiar o código
