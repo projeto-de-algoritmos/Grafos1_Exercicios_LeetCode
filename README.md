@@ -38,7 +38,7 @@ Esse projeto tem por objetivo a resolução de questões encontradas no leet cod
 ![Number of Provinces](/assets/dificil.PNG)
 
 ### Vídeo de Apresentação
-[![Apresentação Dupla 1](https://img.youtube.com/vi/zkX1ZD-qMN8/0.jpg)](https://youtu.be/zkX1ZD-qMN8)
+[Link para o Vídeo de Apresentação da Dupla 1](https://youtu.be/zkX1ZD-qMN8)
 
 ## Instalação 
 **Linguagem**: Python<br>
