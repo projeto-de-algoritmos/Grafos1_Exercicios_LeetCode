@@ -15,6 +15,7 @@ Esse projeto tem por objetivo a resolução de questões encontradas no leet cod
 ## Screenshots
 ### Exercício 1 (Médio) - [Clone Graph](https://leetcode.com/problems/clone-graph/description/)
 [**Código:**](https://github.com/projeto-de-algoritmos/Grafos1_Exercicios_LeetCode/blob/master/Clone%20Graph/cloneGraph.py)<br>
+![Clone Graph](/assets/CloneGraph_Resultado.png)
 
 ## Instalação 
 **Linguagem**: Python<br>
