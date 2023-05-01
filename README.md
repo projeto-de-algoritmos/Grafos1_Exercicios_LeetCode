@@ -37,6 +37,9 @@ Esse projeto tem por objetivo a resolução de questões encontradas no leet cod
 [**Código:**](https://github.com/projeto-de-algoritmos/Grafos1_Exercicios_LeetCode/blob/master/Longest%20Cycle%20in%20a%20Graph/BiggestClicle.py)<br>
 ![Number of Provinces](/assets/dificil.PNG)
 
+### Vídeo de Apresentação
+[![Apresentação Dupla 1](https://img.youtube.com/vi/zkX1ZD-qMN8/0.jpg)](https://youtu.be/zkX1ZD-qMN8)
+
 ## Instalação 
 **Linguagem**: Python<br>
 **Pré-Requisitos**: Os códigos devem ser rodados na própria plataforma do leetcode, tendo em vista o uso de uma classe Solution, bem como o uso correto dos inputs por parte da plataforma.
