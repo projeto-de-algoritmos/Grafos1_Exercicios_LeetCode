@@ -38,7 +38,9 @@ Esse projeto tem por objetivo a resolução de questões encontradas no leet cod
 ![Number of Provinces](/assets/dificil.PNG)
 
 ### Vídeo de Apresentação
-[Link para o Vídeo de Apresentação da Dupla 1](https://youtu.be/zkX1ZD-qMN8)
+[Link para o Vídeo de Apresentação da Dupla 1 - YouTube](https://youtu.be/zkX1ZD-qMN8)
+
+https://github.com/projeto-de-algoritmos/Grafos1_Exercicios_LeetCode/assets/78980903/de3eb7cd-1ab4-45fd-9ac5-b13eca78d9b2
 
 ## Instalação 
 **Linguagem**: Python<br>
@@ -59,3 +61,6 @@ Cole o código copiado no editor.
 
 ### Passo 5: Rodar o código
 Abaixo do editor de código, clique em `Run` para executar o código.
+
+
+
